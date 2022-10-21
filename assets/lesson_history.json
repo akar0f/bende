@@ -1,0 +1,240 @@
+{
+    "subjects": [
+        {
+            "subjectId": 0,
+            "subjectTitle": "İslamiyet Öncesi Türk Tarihi",
+            "headings": [
+                {
+                    "headingId": 0,
+                    "headingName": "İskitler"
+                },
+                {
+                    "headingId": 1,
+                    "headingName": "Asya Hun Devleti"
+                },
+                {
+                    "headingId": 2,
+                    "headingName": "Kavimler Göçü"
+                },
+                {
+                    "headingId": 3,
+                    "headingName": "Avrupa Hun Devleti"
+                },
+                {
+                    "headingId": 4,
+                    "headingName": "Göktürk Devleti"
+                },
+                {
+                    "headingId": 5,
+                    "headingName": "Uygur Devleti"
+                },
+                {
+                    "headingId": 6,
+                    "headingName": "Kırgızlar"
+                },
+                {
+                    "headingId": 7,
+                    "headingName": "Eftalitler"
+                },
+                {
+                    "headingId": 8,
+                    "headingName": "Türgişler"
+                },
+                {
+                    "headingId": 9,
+                    "headingName": "Karluklar"
+                },
+                {
+                    "headingId": 10,
+                    "headingName": "Tabgaçlar"
+                },
+                {
+                    "headingId": 11,
+                    "headingName": "Sibirler"
+                },
+                {
+                    "headingId": 12,
+                    "headingName": "Avarlar"
+                },
+                {
+                    "headingId": 13,
+                    "headingName": "Kimekler"
+                }
+            ]
+        },
+        {
+            "subjectId": 1,
+            "subjectTitle": "İlk Türk İslam Devletleri",
+            "headings": [
+                {
+                    "headingId": 0,
+                    "headingName": "Karahanlı Devleti"
+                },
+                {
+                    "headingId": 1,
+                    "headingName": "Gazneli Devleti"
+                },
+                {
+                    "headingId": 2,
+                    "headingName": "Büyük Selçuklu Devleti"
+                },
+                {
+                    "headingId": 3,
+                    "headingName": "Harzemşahlar"
+                },
+                {
+                    "headingId": 4,
+                    "headingName": "Babür Devleti"
+                },
+                {
+                    "headingId": 5,
+                    "headingName": "Osmanlılar"
+                },
+                {
+                    "headingId": 6,
+                    "headingName": "Tolunoğulları"
+                },
+                {
+                    "headingId": 7,
+                    "headingName": "İhşidler"
+                },
+                {
+                    "headingId": 8,
+                    "headingName": "Eyyubiler"
+                },
+                {
+                    "headingId": 9,
+                    "headingName": "Memlükler"
+                }
+            ]
+        },
+        {
+            "subjectId": 2,
+            "subjectTitle": "Türkiye Tarihi",
+            "headings": [
+                {
+                    "headingId": 0,
+                    "headingName": "Saltuklar"
+                },
+                {
+                    "headingId": 1,
+                    "headingName": "Mengücekliler"
+                },
+                {
+                    "headingId": 2,
+                    "headingName": "Artuklular"
+                },
+                {
+                    "headingId": 3,
+                    "headingName": "Çaka Beyliği"
+                },
+                {
+                    "headingId": 4,
+                    "headingName": "Danişmentliler"
+                },
+                {
+                    "headingId": 5,
+                    "headingName": "Anadolu Selçuklu Devleti"
+                },
+                {
+                    "headingId": 6,
+                    "headingName": "Eretna Devleti"
+                },
+                {
+                    "headingId": 7,
+                    "headingName": "Kadı Burhaneddin Devleti"
+                },
+                {
+                    "headingId": 8,
+                    "headingName": "Karakoyunlu Devleti"
+                },
+                {
+                    "headingId": 9,
+                    "headingName": "Akkoyunlu Devleti"
+                },
+                {
+                    "headingId": 10,
+                    "headingName": "Karesioğulları"
+                },
+                {
+                    "headingId": 11,
+                    "headingName": "Saruhanoğulları"
+                }
+            ]
+        },
+        {
+            "subjectId": 3,
+            "subjectTitle": "Osmanlı Tarihi",
+            "headings": [
+                {
+                    "headingId": 0,
+                    "headingName": "Kuruluş Dönemi"
+                },
+                {
+                    "headingId": 1,
+                    "headingName": "Yükseliş Dönemi"
+                },
+                {
+                    "headingId": 2,
+                    "headingName": "Duraklama Dönemi"
+                },
+                {
+                    "headingId": 3,
+                    "headingName": "Gerileme Dönemi"
+                },
+                {
+                    "headingId": 4,
+                    "headingName": "Dağılma Dönemi"
+                }
+            ]
+        },
+        {
+            "subjectId": 4,
+            "subjectTitle": "Kurtuluş Savaşı",
+            "headings": [
+                {
+                    "headingId": 0,
+                    "headingName": "20. yy.'da Osmanlı"
+                },
+                {
+                    "headingId": 1,
+                    "headingName": "Hazırlık Dönemi"
+                },
+                {
+                    "headingId": 2,
+                    "headingName": "Muharebeler ve Antlaşmalar Dönemi"
+                },
+                {
+                    "headingId": 3,
+                    "headingName": "Atatürk Dönemi"
+                }
+            ]
+        },
+        {
+            "subjectId": 5,
+            "subjectTitle": "Çağdaş Türk ve Dünya Tarihi",
+            "headings": [
+                {
+                    "headingId": 0,
+                    "headingName": "WW1"
+                },
+                {
+                    "headingId": 1,
+                    "headingName": "WW2"
+                },
+                {
+                    "headingId": 2,
+                    "headingName": "SSCB"
+                },
+                {
+                    "headingId": 3,
+                    "headingName": "Cominform"
+                },
+                {
+                    "headingId": 4,
+                    "headingName": "Comecon"
+                }
+            ]
+        }
+    ]
+}
